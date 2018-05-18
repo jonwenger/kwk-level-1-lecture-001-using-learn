@@ -60,6 +60,10 @@ When students are ready and have opened the 'First IDE Lab', they should read
 through the readme and follow the instructions for opening a lab, making changes
 to a file, running tests and submitted the completed lab.
 
+#### CFU
+
+Question:  How confident are you on a scale of 1-5 about jumping into the lab?  If you are a 3 or less, let's walk through this again.  
+
 ### In-Browser IDE
 
 The In-Browser IDE includes Learn's built in text editor and terminal.  Using
